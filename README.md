@@ -10,7 +10,7 @@ Please note that the server didn't ban some characters, this payload may not wor
 
 #### Parse web/path to inject the payload and the command you want to convert to java payload (ints that will be interpreted as ASCII and therefore executed).
 
-#### Based in Spring, aka basic java SSTI templates
+#### Based in Spring, basic java SSTI templates
 
 ## Cases of use I.E:
 
