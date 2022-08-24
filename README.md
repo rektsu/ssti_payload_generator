@@ -8,7 +8,7 @@ Please note that the server didn't ban some characters, this payload may not wor
 
 #### The payload generator is inside the ssti_payload(command) function
 
-#### Parse web/path to inject the payload and the command you want to convert to java.
+#### Parse web/path to inject the payload and the command you want to convert to java payload (ints that will be interpreted as ASCII and therefore executed).
 
 #### Based in Spring, aka basic java SSTI templates
 
