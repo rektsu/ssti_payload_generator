@@ -1,6 +1,8 @@
 # ssti_payload_generator
 Basic SSTI java based payload generator
 
+Please note that the server didn't ban some characters, this payload may not work based on the characters baned.
+
 ![image](https://user-images.githubusercontent.com/15212130/186422425-fda6d84e-f56b-437f-89ef-4f4351d77716.png)
 
 
