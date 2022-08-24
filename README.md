@@ -9,3 +9,9 @@ Basic SSTI java based payload generator
 #### Parse web/path to inject the payload and the command you want to convert to java.
 
 #### Based in Spring, aka basic java SSTI templates
+
+## Cases of use I.E:
+
+#### You can grab SSH Keys with 'cat ~/.ssh/id_rsa' and achieve SSH Sessions
+
+#### You can upload a nc and achieve bind/reverse shell
