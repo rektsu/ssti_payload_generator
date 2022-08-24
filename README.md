@@ -17,3 +17,5 @@ Please note that the server didn't ban some characters, this payload may not wor
 #### You can grab SSH Keys with 'cat ~/.ssh/id_rsa' and achieve SSH Sessions
 
 #### You can upload a nc and achieve bind/reverse shell
+
+#### Basically you have RCE so...
